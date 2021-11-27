@@ -1,0 +1,617 @@
+{
+  "oak_boat": [
+    "Oak_Boat.png"
+  ],
+  "spruce_boat": [
+    "Spruce_Boat.png"
+  ],
+  "birch_boat": [
+    "Birch_Boat.png"
+  ],
+  "jungle_boat": [
+    "Jungle_Boat.png"
+  ],
+  "acacia_boat": [
+    "Acacia_Boat.png"
+  ],
+  "dark_oak_boat": [
+    "Dark_Oak_Boat.png"
+  ],
+  "armor_stand": [
+    "Armor_Stand.png"
+  ],
+  "beetroot_seeds": [
+    "Beetroot_Seeds.png"
+  ],
+  "experience_bottle": [
+    "Bottle_o_Enchanting.png"
+  ],
+  "bow": [
+    "Bow.png"
+  ],
+  "bucket": [
+    "Bucket.png"
+  ],
+  "water_bucket": [
+    "Water_Bucket.png"
+  ],
+  "powder_snow_bucket": [
+    "Powder_Snow_Bucket.png"
+  ],
+  "axolotl_bucket": [
+    "Bucket_of_Axolotl.png"
+  ],
+  "cod_bucket": [
+    "Bucket_of_Cod.png"
+  ],
+  "salmon_bucket": [
+    "Bucket_of_Salmon.png"
+  ],
+  "pufferfish_bucket": [
+    "Bucket_of_Pufferfish.png"
+  ],
+  "tropical_fish_bucket": [
+    "Bucket_of_Tropical_Fish.png"
+  ],
+  "lava_bucket": [
+    "Lava_Bucket.png"
+  ],
+  "carrot": [
+    "Carrot.png"
+  ],
+  "golden_carrot": [
+    "Golden_Carrot.png"
+  ],
+  "cocoa_beans": [
+    "Cocoa_Beans.png"
+  ],
+  "crossbow": [
+    "Crossbow.png"
+  ],
+  "egg": [
+    "Egg.png"
+  ],
+  "ender_pearl": [
+    "Ender_Pearl.png"
+  ],
+  "ender_eye": [
+    "Eye_of_Ender.png"
+  ],
+  "fire_charge": [
+    "Fire_Charge_JE2_BE2.png"
+  ],
+  "firework_rocket": [
+    "Firework_Rocket_JE2_BE2.png"
+  ],
+  "fishing_rod": [
+    "Fishing_Rod_JE2_BE2.png"
+  ],
+  "flint_and_steel": [
+    "Flint_and_Steel_JE4_BE2.png"
+  ],
+  "glow_berries": [
+    "Glow_Berries_JE1_BE1.png"
+  ],
+  "glow_frame": [
+    "Glow_Item_Frame_%28item%29_JE1_BE1.png"
+  ],
+  "frame": [
+    "Item_Frame_%28item%29_JE3.png"
+  ],
+  "kelp": [
+    "Kelp_%28item%29_JE1_BE2.png"
+  ],
+  "melon_seeds": [
+    "Melon_Seeds_JE1_BE1.png"
+  ],
+  "minecart": [
+    "Minecart.png"
+  ],
+  "chest_minecart": [
+    "Minecart_with_Chest.png"
+  ],
+  "hopper_minecart": [
+    "Minecart_with_Hopper.png"
+  ],
+  "tnt_minecart": [
+    "Minecart_with_TNT.png"
+  ],
+  "painting": [
+    "Painting_JE2_BE2.png"
+  ],
+  "potato": [
+    "Potato_JE3_BE2.png"
+  ],
+  "pumpkin_seeds": [
+    "Potato_JE3_BE2.png"
+  ],
+  "string": [
+    "String_JE2_BE2.png"
+  ],
+  "sweet_berries": [
+    "Sweet_Berries_JE1_BE1.png"
+  ],
+  "trident": [
+    "Trident.png"
+  ],
+  "wheat_seeds": [
+    "Wheat_Seeds_JE1_BE1.png"
+  ],
+  "apple": [
+    "Apple_JE3_BE3.png"
+  ],
+  "arrow": [
+    "arrow.png"
+  ],
+  "baked_potato": [
+    "Baked_Potato_JE4_BE2.png"
+  ],
+  "beetroot": [
+    "Beetroot_JE2_BE2.png"
+  ],
+  "beetroot_soup": [
+    "Beetroot_Soup_JE2_BE2.png"
+  ],
+  "black_dye": [
+    "Black_Dye_JE1_BE1.png"
+  ],
+  "blue_dye": [
+    "Blue_Dye_JE1_BE1.png"
+  ],
+  "bone": [
+    "Bone_JE3_BE2.png"
+  ],
+  "bone_meal": [
+    "Bone_Meal_JE3_BE3.png"
+  ],
+  "writable_book": [
+    "Book_and_Quill_JE2_BE2.png"
+  ],
+  "bowl": [
+    "Bowl_JE2_BE2.png"
+  ],
+  "bread": [
+    "Bread_JE3_BE3.png"
+  ],
+  "brown_dye": [
+    "Brown_Dye_JE1_BE1.png"
+  ],
+  "carrot_on_a_stick": [
+    "Carrot_on_a_Stick_JE2_BE2.png"
+  ],
+  "chainmail_boots": [
+    "Chainmail_Boots.png"
+  ],
+  "leather_boots": [
+    "Leather_Boots.png"
+  ],
+  "iron_boots": [
+    "Iron_Boots.png"
+  ],
+  "golden_boots": [
+    "Golden_Boots.png"
+  ],
+  "diamond_boots": [
+    "Diamond_Boots.png"
+  ],
+  "chainmail_chestplate": [
+    "Chainmail_Chestplate.png"
+  ],
+  "leather_chestplate": [
+    "Leather_Tunic.png"
+  ],
+  "iron_chestplate": [
+    "Iron_Chestplate.png"
+  ],
+  "diamond_chestplate": [
+    "Diamond_Chestplate.png"
+  ],
+  "golden_chestplate": [
+    "Golden_Chestplate.png"
+  ],
+  "leather_helmet": [
+    "Leather_Cap.png"
+  ],
+  "chainmail_helmet": [
+    "Chainmail_Helmet.png"
+  ],
+  "iron_helmet": [
+    "Iron_Helmet.png"
+  ],
+  "diamond_helmet": [
+    "Diamond_Helmet.png"
+  ],
+  "golden_helmet": [
+    "Golden_Helmet.png"
+  ],
+  "leather_leggings": [
+    "Leather_Pants.png"
+  ],
+  "chainmail_leggings": [
+    "Chainmail_Leggings.png"
+  ],
+  "iron_leggings": [
+    "Iron_Leggings.png"
+  ],
+  "golden_leggings": [
+    "Golden_Leggings.png"
+  ],
+  "diamond_leggings": [
+    "Diamond_Leggings.png"
+  ],
+  "chorus_fruit": [
+    "Chorus_Fruit_JE1_BE1.png"
+  ],
+  "cooked_beef": [
+    "Steak_JE4_BE3.png"
+  ],
+  "cooked_chicken": [
+    "Cooked_Chicken_JE3_BE3.png"
+  ],
+  "cooked_mutton": [
+    "Cooked_Mutton_JE3_BE2.png"
+  ],
+  "cooked_porkchop": [
+    "Cooked_Porkchop_JE4_BE3.png"
+  ],
+  "cooked_rabbit": [
+    "Cooked_Rabbit_JE3_BE2.png"
+  ],
+  "cooked_salmon": [
+    "Cooked_Salmon_JE2_BE2.png"
+  ],
+  "cooked_cod": [
+    "Cooked_Cod_JE4_BE3.png"
+  ],
+  "cookie": [
+    "Cookie_JE2_BE2.png"
+  ],
+  "cyan_dye": [
+    "Cyan_Dye_JE2_BE2.png"
+  ],
+  "wooden_axe": [
+    "Wooden_Axe_JE2_BE2.png"
+  ],
+  "stone_axe": [
+    "Stone_Axe_JE2_BE2.png"
+  ],
+  "iron_axe": [
+    "Iron_Axe_JE5_BE2.png"
+  ],
+  "golden_axe": [
+    "Golden_Axe_JE3_BE2.png"
+  ],
+  "diamond_axe": [
+    "Diamond_Axe_JE3_BE3.png"
+  ],
+  "netherite_axe": [
+    "Netherite_Axe_JE2.png"
+  ],
+  "wooden_hoe": [
+    "Wooden_Hoe_JE3_BE3.png"
+  ],
+  "stone_hoe": [
+    "Stone_Hoe_JE2_BE2.png"
+  ],
+  "iron_hoe": [
+    "Iron_Hoe_JE2_BE2.png"
+  ],
+  "golden_hoe": [
+    "Golden_Hoe_JE3_BE3.png"
+  ],
+  "diamond_hoe": [
+    "Diamond_Hoe_JE3_BE3.png"
+  ],
+  "netherite_hoe": [
+    "Netherite_Hoe_JE2_BE2.png"
+  ],
+  "wooden_pickaxe": [
+    "Wooden_Pickaxe_JE3_BE3.png"
+  ],
+  "stone_pickaxe": [
+    "Stone_Pickaxe_JE2_BE2.png"
+  ],
+  "iron_pickaxe": [
+    "Iron_Pickaxe_JE3_BE2.png"
+  ],
+  "golden_pickaxe": [
+    "Golden_Pickaxe_JE4_BE3.png"
+  ],
+  "diamond_pickaxe": [
+    "Diamond_Pickaxe_JE3_BE3.png"
+  ],
+  "netherite_pickaxe": [
+    "Netherite_Pickaxe_JE3.png"
+  ],
+  "iron_horse_armor": [
+    "Iron_Horse_Armor_%28item%29_JE3.png"
+  ],
+  "leather_horse_armor": [
+    "Leather_Horse_Armor_%28item%29_JE2.png"
+  ],
+  "golden_horse_armor": [
+    "Golden_Horse_Armor_%28item%29_JE3_BE3.png"
+  ],
+  "diamond_horse_armor": [
+    "Diamond_Horse_Armor_%28item%29_JE3_BE3.png"
+  ],
+  "wooden_shovel": [
+    "Wooden_Shovel_JE2_BE2.png"
+  ],
+  "stone_shovel": [
+    "Stone_Shovel_JE2_BE2.png"
+  ],
+  "iron_shovel": [
+    "Iron_Shovel_JE3_BE2.png"
+  ],
+  "golden_shovel": [
+    "Golden_Shovel_JE3_BE2.png"
+  ],
+  "diamond_shovel": [
+    "Diamond_Shovel_JE3_BE3.png"
+  ],
+  "netherite_shovel": [
+    "Netherite_Shovel_JE2_BE1.png"
+  ],
+  "wooden_sword": [
+    "Wooden_Sword_JE2_BE2.png"
+  ],
+  "stone_sword": [
+    "Stone_Sword_JE2_BE2.png"
+  ],
+  "iron_sword": [
+    "Iron_Sword_JE2_BE2.png"
+  ],
+  "golden_sword": [
+    "Golden_Sword_JE3_BE2.png"
+  ],
+  "diamond_sword": [
+    "Diamond_Sword_JE3_BE3.png"
+  ],
+  "netherite_sword": [
+    "Netherite_Sword_JE2_BE2.png"
+  ],
+  "dried_kelp": [
+    "Dried_Kelp_BE1.png"
+  ],
+  "elytra": [
+    "Elytra.png"
+  ],
+  "glass_bottle": [
+    "Glass_Bottle_JE2_BE2.png"
+  ],
+  "glow_ink_sac": [
+    "Glow_Ink_Sac_JE1_BE1.png"
+  ],
+  "gold_ingot": [
+    "Gold_Ingot_JE4_BE2.png"
+  ],
+  "golden_apple": [
+    "Golden_Apple_JE2_BE2.png"
+  ],
+  "gray_dye": [
+    "Gray_Dye_JE2_BE2.png"
+  ],
+  "green_dye": [
+    "Green_Dye_JE3_BE3.png"
+  ],
+  "honeycomb": [
+    "Honeycomb_JE2_BE2.png"
+  ],
+  "honey_bottle": [
+    "Honey_Bottle_JE1_BE2.png"
+  ],
+  "ink_sac": [
+    "Ink_Sac_JE2_BE2.png"
+  ],
+  "iron_ingot": [
+    "Iron_Ingot_JE3_BE2.png"
+  ],
+  "lapis_lazuli": [
+    "Lapis_Lazuli_JE2_BE2.png"
+  ],
+  "light_gray_dye": [
+    "Light_Gray_Dye_JE2_BE2.png"
+  ],
+  "light_blue_dye": [
+    "Light_Blue_Dye_JE2_BE2.png"
+  ],
+  "lime_dye": [
+    "Lime_Dye_JE2_BE2.png"
+  ],
+  "magenta_dye": [
+    "Magenta_Dye_JE2_BE2.png"
+  ],
+  "melon_slice": [
+    "Melon_Slice_JE2_BE2.png"
+  ],
+  "milk_bucket": [
+    "Milk_Bucket_JE2_BE2.png"
+  ],
+  "mushroom_stew": [
+    "Mushroom_Stew_JE2_BE2.png"
+  ],
+  "name_tag": [
+    "Name_Tag_JE2_BE2.png"
+  ],
+  "orange_dye": [
+    "Orange_Dye_JE2_BE2.png"
+  ],
+  "pink_dye": [
+    "Pink_Dye_JE2_BE2.png"
+  ],
+  "poisonous_potato": [
+    "Poisonous_Potato_JE3_BE2.png"
+  ],
+  "pufferfish": [
+    "Pufferfish_%28item%29_JE5_BE2.png"
+  ],
+  "pumpkin_pie": [
+    "Pumpkin_Pie_JE2_BE2.png"
+  ],
+  "purple_dye": [
+    "Purple_Dye_JE2_BE2.png"
+  ],
+  "rabbit_stew": [
+    "Rabbit_Stew_JE3_BE2.png"
+  ],
+  "beef": [
+    "Raw_Beef_JE4_BE3.png"
+  ],
+  "chicken": [
+    "Raw_Chicken_JE3_BE3.png"
+  ],
+  "cod": [
+    "Raw_Cod_JE4_BE2.png"
+  ],
+  "mutton": [
+    "Raw_Mutton_JE3_BE2.png"
+  ],
+  "porkchop": [
+    "Raw_Porkchop_JE3_BE3.png"
+  ],
+  "rabbit": [
+    "Raw_Rabbit_JE3_BE2.png"
+  ],
+  "salmon": [
+    "Raw_Salmon_JE2_BE2.png"
+  ],
+  "red_dye": [
+    "Red_Dye_JE3_BE3.png"
+  ],
+  "rotten_flesh": [
+    "Rotten_Flesh_JE3_BE2.png"
+  ],
+  "saddle": [
+    "Saddle_JE2_BE2.png"
+  ],
+  "shears": [
+    "Shears_JE2_BE2.png"
+  ],
+  "shield": [
+    "Shield_JE1.png"
+  ],
+  "spider_eye": [
+    "Spider_Eye_JE2_BE2.png"
+  ],
+  "spyglass": [
+    "Spyglass_%28item%29_JE3_BE1.png"
+  ],
+  "sugar": [
+    "Sugar_JE2_BE2.png"
+  ],
+  "totem_of_undying": [
+    "Totem_of_Undying_JE2_BE2.png"
+  ],
+  "wheat": [
+    "Wheat_JE2_BE2.png"
+  ],
+  "white_dye": [
+    "White_Dye_JE1_BE1.png"
+  ],
+  "yellow_dye": [
+    "Yellow_Dye_JE2_BE2.png"
+  ],
+  "amethyst_shard": [
+    "Amethyst_Shard_JE2_BE1.png"
+  ],
+  "blaze_powder": [
+    "Blaze_Powder_JE2_BE1.png"
+  ],
+  "blaze_rod": [
+    "Blaze_Rod_JE1_BE1.png"
+  ],
+  "brick": [
+    "Brick_JE2_BE2.png"
+  ],
+  "netherbrick": [
+    "Nether_Brick_JE2_BE2.png"
+  ],
+  "charcoal": [
+    "Charcoal_JE4_BE4.png"
+  ],
+  "copper_ingot": [
+    "Copper_Ingot_JE2_BE1.png"
+  ],
+  "diamond": [
+    "Diamond_JE3_BE3.png"
+  ],
+  "emerald": [
+    "Emerald_JE3_BE3.png"
+  ],
+  "feather": [
+    "Feather_JE3_BE2.png"
+  ],
+  "fermented_spider_eye": [
+    "Fermented_Spider_Eye_JE2_BE2.png"
+  ],
+  "flint": [
+    "Flint_JE3_BE3.png"
+  ],
+  "ghast_tear": [
+    "Ghast_Tear_JE2_BE2.png"
+  ],
+  "glistering_melon_slice": [
+    "Glistering_Melon_Slice_JE3_BE2.png"
+  ],
+  "gold_nugget": [
+    "Gold_Nugget_JE3_BE2.png"
+  ],
+  "gunpowder": [
+    "Gunpowder_JE2_BE2.png"
+  ],
+  "iron_nugget": [
+    "Iron_Nugget_JE1_BE1.png"
+  ],
+  "leather": [
+    "Leather_JE2_BE2.png"
+  ],
+  "magma_cream": [
+    "Magma_Cream_JE3_BE2.png"
+  ],
+  "nautilus_shell": [
+    "Nautilus_Shell_JE1_BE2.png"
+  ],
+  "quartz": [
+    "Nether_Quartz_JE2_BE2.png"
+  ],
+  "paper": [
+    "Paper_JE2_BE2.png"
+  ],
+  "phantom_membrane": [
+    "Phantom_Membrane_JE2_BE2.png"
+  ],
+  "popped_chorus_fruit": [
+    "Popped_Chorus_Fruit_JE2_BE2.png"
+  ],
+  "prismarine_crystals": [
+    "Prismarine_Crystals_JE2_BE2.png"
+  ],
+  "prismarine_shard": [
+    "Prismarine_Shard_JE2_BE2.png"
+  ],
+  "rabbit_hide": [
+    "Rabbit_Hide_JE3_BE2.png"
+  ],
+  "rabbit_foot": [
+    "Rabbit%27s_Foot_JE3_BE2.png"
+  ],
+  "raw_gold": [
+    "Raw_Gold_JE3_BE2.png"
+  ],
+  "raw_iron": [
+    "Raw_Iron_JE3_BE2.png"
+  ],
+  "raw_copper": [
+    "Raw_Copper_JE3_BE2.png"
+  ],
+  "shulker_shell": [
+    "Shulker_Shell_JE2_BE2.png"
+  ],
+  "slime_ball": [
+    "Slimeball_JE2_BE2.png"
+  ],
+  "stick": [
+    "Stick_JE1_BE1.png"
+  ]
+}
